@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bienvenue/","tags":["gardenEntry"],"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/bienvenue/","tags":["gardenEntry"]}
 ---
 
 ## Bienvenue
