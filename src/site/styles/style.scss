@@ -20,12 +20,24 @@
     --callout-content-padding: 0;
 }
 
+body {
+  font-family: 'Cinzel', serif;
+  background: url('/textures/parchemin.jpg');
+  color: #3b2f2f;
+  max-width: 700px;
+  margin: auto;
+}
+
 h1 {
     color: #ffef60;
+    font-family: 'Uncial Antiqua', cursive;
+    border-bottom: 1px solid #8b5e3c;
 }
 
 h2 {
     color: #f06449;
+    font-family: 'Uncial Antiqua', cursive;
+    border-bottom: 1px solid #8b5e3c;
 }
 
 h3 {
@@ -75,8 +87,8 @@ a {
 }
 
 blockquote {
-    background: #ffffff17;
-    border-left: 10px solid #c1dbe3;
+    background: rgba(255, 248, 220, 0.4);
+    border-left: 5px solid #8b5e3c;
     margin: 1.5em 10px;
     padding: 0.5em 10px;
     quotes: "\201C""\201D""\2018""\2019";
