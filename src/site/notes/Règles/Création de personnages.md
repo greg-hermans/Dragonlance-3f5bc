@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/regles/creation-de-personnages/"}
 ---
 
-
 ## Sources autorisées
 
 ![mdj2024.png|400](/img/user/assets/mdj2024.png)
@@ -23,7 +22,7 @@ En conclusion, ces classes ont été progressivement abandonnée et sont devenue
 
 Du côté des lanceurs de sorts profanes, il y a deux contraintes à respecter : 
 1. Aucun sort ou pouvoir de soins ne fonctionnent. La magie de guérison a disparu avec les Dieux.
-2. Tous lanceur de sorts profanes qui monte en puissance et atteint la capacité de lancer des sorts de niv.3 ou plus, doit se présenter à l'une des grands Tours de Haute Sorcellerie et passer un test pour prouver qu'il a la discipline pour être autorisé à utiliser un pouvoir si grand. En cas d'échec, il devra renoncer à son pouvoir. S'il s'obstine à utiliser ces sorts ou s'il refuse de passer le test, il sera considéré comme un **renégat**. En conséquence, il sera pourchassé par tous les autres lanceurs de sorts afin d'âtre mis à mort.
+2. Tous lanceur de sorts profanes qui monte en puissance et atteint la capacité de lancer des sorts de niv.3 ou plus, doit se présenter à l'une des grandes Tours de Haute Sorcellerie et passer un test pour prouver qu'il a la discipline pour être autorisé à utiliser un pouvoir si grand. En cas d'échec, il devra renoncer à son pouvoir. S'il s'obstine à utiliser ses sorts ou s'il refuse de passer le test, il sera considéré comme un **renégat**. En conséquence, il sera pourchassé par tous les autres lanceurs de sorts (appuyés par la plupart des peuples "civilisés") afin d'être mis à mort. Bien qu'il y ait moyen, pour un renégat, de vivre loin 
 
 
 
