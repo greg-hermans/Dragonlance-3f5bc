@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bienvenue/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/bienvenue/","tags":["gardenEntry"],"dgShowInlineTitle":true}
 ---
 
 Bienvenue dans la campagne Dragonlance du club Chateaux et Murlocs.
