@@ -11,4 +11,5 @@ Le style de combat de Caramon est l'armure lourde, le bouclier et l'épée. Il a
 Même désarmé, il reste redoutable, ayant perfectionné les techniques de combat dans les tavernes où il a passé une grosse partie de sa jeunesse.
 
 Feuille de perso D&D Beyond (en Anglais) : [Caramon Majere's Character Sheet - D&D Beyond](https://www.dndbeyond.com/characters/147530000)
-Feuille de perso PDF (en Français) : ![[Caramon Majere.pdf]]
+Feuille de perso PDF (en Français) :
+<iframe src="https://1drv.ms/b/c/3ffe11aa169ab15b/IQQt7leX3998S5TyN4FSqLK9AfiUUsJiVKvll8T_vNtfrxs" width="900" height="1200" frameborder="0" scrolling="no"></iframe>
