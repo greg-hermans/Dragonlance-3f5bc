@@ -14,7 +14,7 @@ Une des caractéristique de la campagne de la Guerre de la Lance est qu'elle pro
 
 A chaque fois qu'un nouveau PJ entrera en scène (y compris les 7 PJ de niveau 1), je vous laisserai l'opportunité de le modifier, du moment qu'on ne change pas le concept de base du personnage (changements à approuver par votre bienveillant MJ) et qu'on respecte les contraintes décrites ci-dessous.
 
-La campagne de la Guerre de la Lance, à son commencement, est une campagne où la magie est peu présente (en particulier la magie divine). C'est la raison pour laquelle, la plupart des personnages sont des guerriers au début. Mais, l'un des buts de vos aventuriers sera de partir à la recherche d'anciens pouvoirs oubliés. Au fur et à mesure de vos découvertes, certaines classes seront réintroduites dans la campagne et vous pourrez alors choisir de les utiliser.
+La campagne de la Guerre de la Lance, à son commencement, est une campagne où la magie est peu présente (en particulier la magie divine). C'est la raison pour laquelle, la plupart des personnages sont des guerriers au début. Mais, l'un des buts de vos aventuriers sera de partir à la recherche d'anciens pouvoirs oubliés. Au fur et à mesure de vos découvertes, certaines classes seront réintroduites dans la campagne et vous pourrez alors choisir de les utiliser. Malgré ce manque de variété au début de la campagne, j'ai fait de grands efforts pour que chaque guerrier du group ait un style de combat différent (notamment grâce aux règles des "bottes" de la nouvelle édition 2024 de D&D 😊).
 
 Vous trouverez les détails des personnages pré-tirés de niveau 1 ici : [[Personnages/Personnages pré-tirés\|Personnages pré-tirés]]
 
