@@ -10,4 +10,6 @@ Bienvenue dans la campagne Dragonlance du club Chateaux & Murlocs.
 
 Ce site contient les notes à destination des joueurs de la campagne.
 
-Vous trouverez un résumé des règles de la campagne ici : [[Règles/Création de personnages\|Création de personnages]]
+Vous trouverez les informations utiles de la campagne ici : 
+* [[Règles/Création de personnages\|Création de personnages]]
+* [[Personnages/Personnages pré-tirés\|Personnages pré-tirés]]

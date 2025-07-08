@@ -10,13 +10,15 @@
 	- Chapitre 1 : Création des personnages, p.20 à p.35
 
 ## Utilisation de personnages pré-tirés
-Une des caractéristique de la campagne de la Guerre de la Lance est qu'elle propose 7 personnages pré-tirés de niveau 1 à se répartir entre vous. Pendant toute la durée de l'aventure, vous croiserez d'autres personnages que vous pourrez décider de prendre comme PJ. Dans ces conditions, il est possible de jouer plusieurs PJ en même temps. Vous pouvez même échanger les PJ entre vous si vous le désirez. À certains moments clés de la campagne, je vous laisserai même l'opportunité de séparer le groupe et de laisser les PJ prendre des directions différentes. (à condition qu'il y ait toujours au moins 1 PJ / joueur dans chaque sous-groupe.)
+Une des caractéristique de la campagne de la Guerre de la Lance est qu'elle propose 7 personnages pré-tirés de niveau 1 à se répartir entre vous. Pendant toute la durée de l'aventure, vous croiserez d'autres personnages que vous pourrez décider de prendre comme personnages joueurs (PJ). Dans ces conditions, il est possible de jouer plusieurs PJ en même temps. Vous pouvez même échanger les PJ entre vous si vous le désirez. À certains moments clés de la campagne, il sera même opportun de séparer le groupe et de laisser les PJ prendre des directions différentes. (à condition qu'il y ait toujours au moins 1 PJ / joueur dans chaque sous-groupe évidemment.)
 
-A chaque fois qu'un nouveau PJ entrera en scène, je laisserai à son joueur l'opportunité de le modifier à sa guise, du moment qu'on ne change pas le concept de base du PJ et qu'on respecte les contraintes décrites ci-dessous.
+A chaque fois qu'un nouveau PJ entrera en scène (y compris les 7 PJ de niveau 1), je vous laisserai l'opportunité de le modifier, du moment qu'on ne change pas le concept de base du personnage (changements à approuver par votre bienveillant MJ) et qu'on respecte les contraintes décrites ci-dessous.
+
+Vous trouverez les détails des personnages pré-tirés de niveau 1 ici : [[Personnages/Personnages pré-tirés\|Personnages pré-tirés]]
 
 ## Contraintes à respecter
 À l'époque où la campagne commence, les Dieux anciens qui donnaient leurs pouvoirs aux personnages divins (clerc, druide, ranger, paladin) ont abandonné le monde de Krynn. Laissant les peuples se tourner vers des idoles et des gurus sans pouvoirs.
-Cela signifie que toutes les classes dont le pouvoir est issu des Dieux, **ne peuvent lancer aucun sort ou utiliser des capacités divines** comme repousser les morts-vivants ou soigner avec l'imposition des mains.
+Cela signifie que toutes les classes dont le pouvoir est issu des Dieux, **ne peuvent lancer aucun sort ou utiliser des capacités divines** comme le renvoi des morts-vivants ou le soin avec imposition des mains.
 
 En conclusion, ces classes ont été progressivement abandonnée et sont devenues très rares et donc **très peu recommandées pour les PJ**. (Sauf si vous êtes prêts à jouer une classe beaucoup plus faible que les autres.).
 
