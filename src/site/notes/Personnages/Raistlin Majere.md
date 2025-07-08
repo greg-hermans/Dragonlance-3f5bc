@@ -5,7 +5,7 @@
 ## Profil
 Raistlin est un initié de haute sorcellerie. Il est d'alignement neutre et donc voit son pouvoir influencé par la lune rouge de Krynn : Lunitari. De cette lune, il reçoit quelques sorts plutôt orientés vers l'illusion et l'hypnose.
 
-Sa santé étant fragile, il a dû apprendre les rudiments de la médecine. Il est devenu donc de facto le guérisseur du groupe même si, à la base, ça démarche était plus motivée par l'auto-préservation que par le désir d'aider les autres. 
+Sa santé étant fragile, il a dû apprendre les rudiments de la médecine. Il est devenu donc de facto le guérisseur du groupe même si, à la base, ça démarche était plus motivée par l'auto préservation que par le désir d'aider les autres. 
 
 C'est un mage surdoué qui a fort impressionné ses maîtres. Il dispose d'un grimoire bien remplis avec un assortiment de sorts variés : aussi bien offensifs que défensif ou utilitaires.
 
