@@ -12,4 +12,5 @@ C'est un mage surdoué qui a fort impressionné ses maîtres. Il dispose d'un gr
 Il n'attend qu'une chose maintenant : monter en expérience afin de pouvoir présenter son test de haute sorcellerie et devenir le plus jeune mage de haute sorcellerie de tous les temps et commencer ça longue carrière qui, il en est certain, le mènera à une destinée hors du commun.
 
 * Feuille de perso D&D Beyond (en Anglais) : [Raistlin Majere's Character Sheet - D&D Beyond](https://www.dndbeyond.com/characters/147552386)
-* Feuille de perso PDF (en Français) : ![[Raistlin Majere.pdf]]
+* Feuille de perso PDF (en Français) :
+<iframe src="https://1drv.ms/b/c/3ffe11aa169ab15b/IQQS7KaO-XUXQb7gcAWJ7OFWASU2v0CQ1GW7mBgrDaAWI-o" width="900" height="1200" frameborder="0" scrolling="no"></iframe>
