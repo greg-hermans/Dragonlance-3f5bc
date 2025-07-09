@@ -4,7 +4,7 @@
 
 ## Profil
 
-Flint est le doyen du groupe. Á ce titre, il attend le respect de la part des autres en égard de son expérience. Il n'est pas très patient et peut être grognon mais son courage et son dévouement aux autres aventuriers, qu'il considère comme ses enfants, est sans faille.
+Flint est le doyen du groupe. Á ce titre, il attend le respect de la part des autres en égard de son expérience. Il n'est pas très patient et peut être grognon mais son courage et son dévouement aux autres aventuriers, qu'il considère comme ses petits-enfants, est sans faille.
 
 Flint est un artisan de génie, façonnant le bois pour lui donner vie. Il a la capacité de fabriquer des objets temporaires qui peuvent se révéler très pratique pour dépanner le groupe.
 

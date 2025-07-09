@@ -16,7 +16,7 @@ A chaque fois qu'un nouveau PJ entrera en scène (y compris les 7 PJ de niveau 1
 
 La campagne de la Guerre de la Lance, à son commencement, est une campagne où la magie est peu présente (en particulier la magie divine). C'est la raison pour laquelle, la plupart des personnages sont des guerriers. Mais, l'un des buts de vos aventuriers sera de partir à la recherche d'anciens pouvoirs oubliés. Au fur et à mesure de vos découvertes, certaines classes seront réintroduites dans la campagne et vous pourrez alors choisir de les utiliser. Á ces moments clés de la campagne, après certaines de ces découvertes je pourrai même vous laisser "recréer" un perso existant depuis zéro (du moment que le concept reste similaire). Par exemple, un guerrier pourrait être recréé comme rôdeur.
 
-Malgré ce manque de variété au début de la campagne, j'ai fait de grands efforts pour que chaque guerrier du groupe ait un style de combat différent et ne se ressemblent pas (notamment grâce aux règles des "bottes" de la nouvelle édition 2024 de D&D 😊).
+Malgré ce manque de variété au début de la campagne, j'ai fait de grands efforts pour que chaque guerrier du groupe ait un style de combat différent et ne ressemble pas aux autres (notamment grâce aux règles des "bottes" de la nouvelle édition 2024 de D&D 😊).
 
 Vous trouverez les détails des personnages pré-tirés de niveau 1 ici : [[Personnages/Personnages pré-tirés\|Personnages pré-tirés]]
 
@@ -30,11 +30,11 @@ En conclusion, ces classes ont été progressivement abandonnée et sont devenue
 
 Du côté des lanceurs de sorts profanes, il y a deux contraintes à respecter : 
 1. Aucun sort ou pouvoir de soins ne fonctionnent. La magie de guérison a disparu avec les Dieux.
-2. Tous lanceur de sorts profanes qui monte en puissance et atteint la capacité de lancer des sorts de niv.3 ou plus, doit se présenter à l'une des grandes Tours de Haute Sorcellerie et passer un test pour prouver qu'il a la discipline pour être autorisé à utiliser un pouvoir si grand. En cas d'échec, il devra renoncer à son pouvoir. S'il s'obstine à utiliser ses sorts ou s'il refuse de passer le test, il sera considéré comme un **renégat**. En conséquence, il sera pourchassé par tous les autres lanceurs de sorts (appuyés par la plupart des peuples "civilisés") afin d'être mis à mort. Bien qu'il y ait moyen, pour un renégat, de se cacher loin de la "civilisation" (parmi les elfes kagonesti ou les humains nomades par exemple).
-3. Les classes soumises à ces règles sont donc les bardes, les ensorceleurs, les guerriers chevaliers occultes, les magiciens et les occultistes.
+2. Tous lanceur de sorts profanes qui monte en puissance et atteint la capacité de lancer des sorts de niv.3 ou plus, doit se présenter à l'une des grandes Tours de Haute Sorcellerie et passer un test pour prouver qu'il a la discipline pour être autorisé à utiliser un pouvoir si grand. En cas d'échec, il devra renoncer à son pouvoir. S'il s'obstine à utiliser ses sorts et qu'il refuse de passer le test, il sera considéré comme un **renégat**. En conséquence, il sera pourchassé par tous les autres lanceurs de sorts (appuyés par la plupart des peuples "civilisés") afin d'être mis à mort. Bien qu'il y ait moyen, pour un renégat, de se cacher loin de la "civilisation" (parmi les elfes kagonesti ou les humains nomades par exemple).
+Les classes soumises à ces règles sont donc les bardes, les ensorceleurs, les guerriers chevaliers occultes, les magiciens et les occultistes.
 
 ### Races
-Depuis le cataclysme, les peuples de Krynn se sont repliés sur eux-mêmes. En conséquence, les races se mélangent peu et sont souvent soumis à la xénophobie.
+Depuis le cataclysme, les peuples de Krynn se sont repliés sur eux-mêmes. En conséquence, les races se mélangent peu et sont souvent soumises à la xénophobie.
 La région où vous commencez est relativement cosmopolite car, c'est un carrefour entre les peuples humains, kenders, nains des collines et elfes qualinesti. Ce qui fait de ces 4 races, les seules accessibles au début de la campagne.
 
 Mais, au fur et à mesure, de votre exploration du monde, vous découvrirez de nouvelles races, certaines pouvant être utilisées pour les PJ.
