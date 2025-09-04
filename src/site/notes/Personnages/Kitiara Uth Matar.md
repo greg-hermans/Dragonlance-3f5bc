@@ -6,7 +6,7 @@
 
 Kitiara est vaillante et possède une volonté de fer. Elle a développé une technique de combat à deux armes qui fait d'elle la guerrière la plus offensive du groupe (en terme de dégât max infligés aux ennemis en un seul round).
 
-Elle tient toujours son arbalète de poing prête afin de pouvoir tirer un carreau dès le début de combat. (Cette arme étant suffisant légère que pour être utilisée avec une seconde arme en même temps.)
+Elle tient toujours son arbalète de poing prête afin de pouvoir tirer un carreau dès le début de combat. (Cette arme étant suffisamment légère que pour être utilisée avec une seconde arme en même temps.)
 
 Elle ne ressent pas la douleur et se bat avec passion comme si c'était chaque fois son dernier combat.
 

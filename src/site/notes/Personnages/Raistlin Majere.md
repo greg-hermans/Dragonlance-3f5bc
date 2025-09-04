@@ -7,7 +7,7 @@ Raistlin est un initié de haute sorcellerie. Il est d'alignement neutre et donc
 
 Sa santé étant fragile, il a dû apprendre les rudiments de la médecine. Il est devenu donc de facto le guérisseur du groupe même si, à la base, ça démarche était plus motivée par l'auto préservation que par le désir d'aider les autres. 
 
-C'est un mage surdoué qui a fort impressionné ses maîtres. Il dispose d'un grimoire bien remplis avec un assortiment de sorts variés : aussi bien offensifs que défensif ou utilitaires.
+C'est un mage surdoué qui a fort impressionné ses maîtres. Il dispose d'un grimoire bien rempli avec un assortiment de sorts variés : aussi bien offensifs que défensif ou utilitaires.
 
 Il n'attend qu'une chose maintenant : monter en expérience afin de pouvoir présenter son test de haute sorcellerie et devenir le plus jeune mage de haute sorcellerie de tous les temps et commencer sa longue carrière qui, il en est certain, le mènera à une destinée hors du commun.
 
